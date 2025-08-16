@@ -1,0 +1,5 @@
+/saving/*.pth
+/wandb/
+/tensorboard/
+**/__pycache__
+*.pth
